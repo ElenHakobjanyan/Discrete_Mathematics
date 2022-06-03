@@ -22,7 +22,6 @@ int main()
 	print_matrix(matrix, line, col);
 	
 	cover(line, col);
-	//print_two_coverage(line, col, 1);
 	
 	delete_matrix(matrix, line, col);
 }
